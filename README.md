@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @iPatavatsizz
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me ...
+# On-Hold Works
+- Project Pripyat v1.0.0
+https://ipatavatsizz.github.io/pripyat for dev logs.
 
 <!---
 iPatavatsizz/iPatavatsizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
