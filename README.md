@@ -1,6 +1,5 @@
 # On-Hold Works
-- Project Pripyat v1.0.0
-https://ipatavatsizz.github.io/pripyat for dev logs.
+- Todo app with Flutter.
 
 <!---
 iPatavatsizz/iPatavatsizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
