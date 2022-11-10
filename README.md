@@ -1,5 +1,5 @@
 # On-Hold Works
-- [com.moonshred.notes][Moonshred Notes] - A mobile note application for everyone. 
+- [Moonshred Notes][com.moonshred.notes] - A mobile note application for everyone. 
 
 <!---
 iPatavatsizz/iPatavatsizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
