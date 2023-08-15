@@ -56,7 +56,7 @@ background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, F
 ### Stats:
 
 <!-- Most used languages -->
-[![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=iPatavatsizz&show_icons=true&locale=en&layout=compact&bg_color=30,141E30,242B55)](https://github.com/iPatavatsizz)
+[![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=iPatavatsizz&show_icons=true&locale=en&layout=compact&text_color=ffffff&bg_color=30,141E30,242B55)](https://github.com/iPatavatsizz)
 
 <!-- Github Stats -->
 [![iPatavatsizz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iPatavatsizz&show_icons=true&locale=en&text_color=ffffff&bg_color=30,141E30,243B55)](https://github.com/iPatavatsizz)
