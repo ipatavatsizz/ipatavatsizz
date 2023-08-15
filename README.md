@@ -3,7 +3,8 @@
 
 ----------
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
+
 <p align="left">
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
@@ -46,24 +47,27 @@
   </a>
 </p>
 
-<h3 align="left">Support:</h3>
+
+### Stats:
+
+<!-- Most used languages -->
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=ipatavatsizz&show_icons=true&locale=en&layout=compact&bg_color=30,141E30,242B55)](https://github.com/ipatavatsizz)
+
+<!-- Github Stats -->
+[![iPatavatsizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipatavatsizz&show_icons=true&locale=en&text_color=ffffff&bg_color=30,141E30,243B55)](https://github.com/ipatavatsizz)
+
+### Support
+
 <p align="left">
   <a href="https://www.buymeacoffee.com/ipatavatsizz">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ipatavatsizz" />
   </a>
 </p><br><br>
 
-<h3 align="left">Stats:</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ipatavatsizz&show_icons=true&locale=en&layout=compact" alt="ipatavatsizz" />
-</p>
-
 <h3 align="left">Repos:</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipatavatsizz&repo=git-comment-commit&show_owner=true)](https://github.com/ipatavatsizz/git-comment-commit)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipatavatsizz&repo=git-comment-commit&show_owner=true)](https://github.com/ipatavatsizz/git-comment-commit) -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ipatavatsizz&show_icons=true&locale=en" alt="ipatavatsizz" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ipatavatsizz&" alt="ipatavatsizz" /></p>
  -->
