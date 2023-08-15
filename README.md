@@ -57,10 +57,10 @@ background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, F
 ### Stats:
 
 <!-- Most used languages -->
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=ipatavatsizz&show_icons=true&locale=en&layout=compact&bg_color=30,141E30,242B55)](https://github.com/ipatavatsizz)
+[![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=iPatavatsizz&show_icons=true&locale=en&layout=compact&bg_color=30,141E30,242B55)](https://github.com/iPatavatsizz)
 
 <!-- Github Stats -->
-[![iPatavatsizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipatavatsizz&show_icons=true&locale=en&text_color=ffffff&bg_color=30,141E30,243B55)](https://github.com/ipatavatsizz)
+[![iPatavatsizz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iPatavatsizz&show_icons=true&locale=en&text_color=ffffff&bg_color=30,141E30,243B55)](https://github.com/iPatavatsizz)
 
 ### Support
 
@@ -72,7 +72,7 @@ background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, F
 
 <h3 align="left">Repos:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipatavatsizz&repo=git-comment-commit&show_owner=true)](https://github.com/ipatavatsizz/git-comment-commit)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ipatavatsizz&repo=git-comment-commit&show_owner=true)](https://github.com/ipatavatsizz/git-comment-commit)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipatavatsizz&repo=git-comment-commit&show_owner=true)](https://github.com/ipatavatsizz/git-comment-commit) -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ipatavatsizz&" alt="ipatavatsizz" /></p>
