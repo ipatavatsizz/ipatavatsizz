@@ -53,7 +53,6 @@ background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, F
   </a>
 </p>
 
-
 ### Stats:
 
 <!-- Most used languages -->
@@ -62,6 +61,10 @@ background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, F
 <!-- Github Stats -->
 [![iPatavatsizz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iPatavatsizz&show_icons=true&locale=en&text_color=ffffff&bg_color=30,141E30,243B55)](https://github.com/iPatavatsizz)
 
+### Repos:
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ipatavatsizz&repo=git-comment-commit&show_owner=true)](https://github.com/ipatavatsizz/git-comment-commit)
+
 ### Support
 
 <p align="left">
@@ -69,10 +72,6 @@ background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, F
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ipatavatsizz" />
   </a>
 </p><br><br>
-
-<h3 align="left">Repos:</h3>
-
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ipatavatsizz&repo=git-comment-commit&show_owner=true)](https://github.com/ipatavatsizz/git-comment-commit)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipatavatsizz&repo=git-comment-commit&show_owner=true)](https://github.com/ipatavatsizz/git-comment-commit) -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ipatavatsizz&" alt="ipatavatsizz" /></p>
