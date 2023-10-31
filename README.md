@@ -1,17 +1,22 @@
-<!-- 
-background: #141E30;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
- -->
-
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">A passionate frontend and mobile developer</h3>
 
-----------
+<p style="font-size:20px;" align="center">A passionate mobile application developer 😎😊</p>
 
-### Languages and Tools
+<br/>
+<h2 align="center">About Me</h2>
 
-<p align="left">
+<h4 align="justify">
+I am currently studying department of English Teaching at Kayseri, Turkey for 2 years.
+Starting with modding simple 2d games using Lua, I've experienced and used lots of other sectors about development
+and decided to choose my carrier in mobile application sector. For 2 years I have been developing personal projects.
+</h4>
+
+<br/>
+
+<h2 align="center">Languages and Tools</h2>
+<br/>
+
+<p align="center">
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
   </a>
@@ -52,13 +57,16 @@ background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, F
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
 </p>
+<br/>
 
 ### Stats:
 
 <!-- Most used languages -->
+
 [![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=iPatavatsizz&show_icons=true&locale=en&layout=compact&text_color=ffffff&bg_color=30,141E30,242B55)](https://github.com/iPatavatsizz)
 
 <!-- Github Stats -->
+
 [![iPatavatsizz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iPatavatsizz&show_icons=true&locale=en&text_color=ffffff&bg_color=30,141E30,243B55)](https://github.com/iPatavatsizz)
 
 ### Repos:
