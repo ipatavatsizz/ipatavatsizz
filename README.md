@@ -5,11 +5,11 @@
 <br/>
 <h2 align="center">About Me</h2>
 
-<h4 align="justify">
+<p style="font-size:16px;" align="justify">
 I am currently studying department of English Teaching at Kayseri, Turkey for 2 years.
 Starting with modding simple 2d games using Lua, I've experienced and used lots of other sectors about development
 and decided to choose my carrier in mobile application sector. For 2 years I have been developing personal projects.
-</h4>
+</p>
 
 <br/>
 
