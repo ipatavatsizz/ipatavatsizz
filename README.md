@@ -1,20 +1,14 @@
-<h1 align="center">Hi 👋, I'm Emre</h1>
+<h1 align="center">Hi, It's Emre! 👋</h1>
 
-<p style="font-size:20px;" align="center">A passionate mobile application developer 😎😊</p>
+<p style="font-size:20px;" align="center">I am a passionate mobile application developer 😎😊</p>
 
 <br/>
-<h2 align="center">About Me</h2>
+<!-- <h2 align="center">About Me</h2>
 
 <p style="font-size:16px;" align="justify">
-I am currently studying department of English Teaching at Kayseri, Turkey for 2 years.
-Starting with modding simple 2d games using Lua, I've experienced and used lots of other sectors about development
-and decided to choose my carrier in mobile application sector. For 2 years I have been developing personal projects.
-</p>
-
-<br/>
-
-<h2 align="center">Languages and Tools</h2>
-<br/>
+Starting with Lua, I've experienced mobile application, and website development with many programming languages and frameworks
+and decided to choose my career in the mobile application sector. For 2 years I have been developing personal projects.
+</p>-->
 
 <p align="center">
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
@@ -28,6 +22,9 @@ and decided to choose my carrier in mobile application sector. For 2 years I hav
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
@@ -51,10 +48,10 @@ and decided to choose my carrier in mobile application sector. For 2 years I hav
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
 <br/>
@@ -68,10 +65,6 @@ and decided to choose my carrier in mobile application sector. For 2 years I hav
 <!-- Github Stats -->
 
 [![iPatavatsizz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iPatavatsizz&show_icons=true&locale=en&text_color=ffffff&bg_color=30,141E30,243B55)](https://github.com/iPatavatsizz)
-
-### Repos:
-
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ipatavatsizz&repo=git-comment-commit&show_owner=true)](https://github.com/ipatavatsizz/git-comment-commit)
 
 ### Support
 
