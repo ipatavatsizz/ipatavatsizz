@@ -72,7 +72,13 @@ and decided to choose my career in the mobile application sector. For 2 years I 
   <a href="https://www.buymeacoffee.com/ipatavatsizz">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ipatavatsizz" />
   </a>
-</p><br><br>
+</p>
+
+<br />
+<br />
+<br />
+
+![cmylmz](cem-yılmaz-kapak-olsun.gif)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipatavatsizz&repo=git-comment-commit&show_owner=true)](https://github.com/ipatavatsizz/git-comment-commit) -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ipatavatsizz&" alt="ipatavatsizz" /></p>
