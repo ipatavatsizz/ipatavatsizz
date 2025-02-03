@@ -1,85 +1,34 @@
-<h1 align="center">Hi, It's Emre! 👋</h1>
+<!-- Header -->
+<!-- ![GithubBanner3](https://user-images.githubusercontent.com/79931228/190871899-12046d2d-2f52-4573-9c50-0146bddf1f32.png)
+<br><br><br> -->
 
-<p style="font-size:20px;" align="center">I am a passionate mobile application developer 😎😊</p>
+<!-- Typing Mode -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OpenSans&size=40&duration=6000&pause=1000&color=b0e0e6&center=true&vCenter=true&width=1333&lines=Welcome+to+my+Github+Profile+🥳)](https://git.io/typing-svg)
+<br><br>
+---
+<br>
 
-<br/>
-<!-- <h2 align="center">About Me</h2>
+<!-- Gif --> 
+<img align="right" width=300 height=300 src="https://github.com/user-attachments/assets/fabf3a2c-a91d-40a9-befb-6d16df9da2fc" />
 
-<p style="font-size:16px;" align="justify">
-Starting with Lua, I've experienced mobile application, and website development with many programming languages and frameworks
-and decided to choose my career in the mobile application sector. For 2 years I have been developing personal projects.
-</p>-->
+## 🔸Who am I
+- I graduated from Erciyes University | English Language Teaching<br>
+- I am a software lover.<br>
+- I am a person who loves coding and esport.<br>
 
-<p align="center">
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
-<br/>
+## 🔸What am I doing
+- I am working on Android mobile application development.<br>
+- Since I love to design, I try my best to make breakthrough designs.<br>
+- I try to improve myself by creating my own projects.
 
-### Stats:
 
-<!-- Most used languages -->
+## 🔸Languages and Tools I Use
 
-[![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=iPatavatsizz&show_icons=true&locale=en&layout=compact&text_color=ffffff&bg_color=30,141E30,242B55)](https://github.com/iPatavatsizz)
+| Android | Kotlin | Flutter | Dart | Firebase | SQLite | Git | Python | Figma
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
+|<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="43" height="43"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="37" height="37"/>|<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/refs/heads/main/language_and_tools/square/flutter/flutter.svg" alt="Flutter" width="40" height="40" />|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/refs/heads/main/language_and_tools/square/dart/dart.svg" alt="Dart" width="40" height="40" />|<img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="Git" width="43" height="43"/>|<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/refs/heads/main/language_and_tools/square/python/python.svg" alt="Python" width="43" height="43"/>|<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="41" height="41"/>|<img align="center" 
 
-<!-- Github Stats -->
+## 🔸How to support me?
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ipatavatsizz" /><br><br><br>
 
-[![iPatavatsizz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iPatavatsizz&show_icons=true&locale=en&text_color=ffffff&bg_color=30,141E30,243B55)](https://github.com/iPatavatsizz)
-
-### Support
-
-<p align="left">
-  <a href="https://www.buymeacoffee.com/ipatavatsizz">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ipatavatsizz" />
-  </a>
-</p>
-
-<br />
-<br />
-<br />
-
-![cmylmz](cem-yılmaz-kapak-olsun.gif)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipatavatsizz&repo=git-comment-commit&show_owner=true)](https://github.com/ipatavatsizz/git-comment-commit) -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ipatavatsizz&" alt="ipatavatsizz" /></p>
- -->
+<img align="center" src="https://github.com/user-attachments/assets/9d3f7172-8a90-4764-aa63-899b359c2065" />
