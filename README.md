@@ -1,23 +1,63 @@
-<img width=200 height=200 src="https://github.com/user-attachments/assets/fabf3a2c-a91d-40a9-befb-6d16df9da2fc" />
+# Hi there, I'm Emre! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&duration=6000&pause=1000&color=b0e0e6&center=true&vCenter=true&width=1333&lines=Welcome+to+my+Github+Profile+🥳)](https://git.io/typing-svg)
-<br>
+<p align="center"><img width=200 height=200 src="https://github.com/user-attachments/assets/fabf3a2c-a91d-40a9-befb-6d16df9da2fc" />
+</p>
 
-## 🔸Who am I
-- I graduated from Erciyes University | English Language Teaching<br>
-- I am a software lover.<br>
-- I am a person who loves coding and esport.<br>
+I'm a passionate developer with a strong focus on **Mobile Application Development**. For the last 4-5 years, I've been building and experimenting with personal projects using various languages and technologies. I love the process of turning an idea into a functional and visually appealing mobile experience.
 
-## 🔸What am I doing
-- I am working on Android mobile application development.<br>
-- Since I love to design, I try my best to make breakthrough designs.<br>
-- I try to improve myself by creating my own projects.
+---
 
+## 🚀 Technologies & Tools I Use
 
-## 🔸Languages and Tools I Use
+Here are some of the technologies and tools I've worked with:
 
-| Android | Kotlin | Flutter | Dart | Firebase | SQLite | Git | Python | Figma
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-|<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="43" height="43"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="37" height="37"/>|<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/refs/heads/main/language_and_tools/square/flutter/flutter.svg" alt="Flutter" width="40" height="40" />|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/refs/heads/main/language_and_tools/square/dart/dart.svg" alt="Dart" width="40" height="40" />|<img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="Git" width="43" height="43"/>|<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/refs/heads/main/language_and_tools/square/python/python.svg" alt="Python" width="43" height="43"/>|<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="41" height="41"/>|<img align="center" 
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://developer.android.com/images/logos/android.svg" alt="android" width="40" height="40"/></a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
+  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jetpackcompose/3DDC84" alt="Jetpack Compose" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+</p>
 
-<img align="center" width="300" src="https://github.com/user-attachments/assets/9d3f7172-8a90-4764-aa63-899b359c2065" />
+---
+
+## 🌱 What I'm Currently Exploring
+
+- Diving deep into **Jetpack Compose** for modern native Android development.
+- Experimenting with building **creative, innovative, and user-centric interfaces** using Jetpack Compose.
+- Focusing on translating complex UI/UX designs (often from Figma/Canva) into **interactive and performant Compose components**.
+- Exploring **best practices and advanced patterns** within the Jetpack Compose ecosystem for scalable applications.
+- Seeking opportunities to contribute to open-source **Android projects utilizing Jetpack Compose**.
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ipatavatsizz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Emre's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipatavatsizz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com/?user=ipatavatsizz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to connecting with fellow developers, designers, or anyone interested in technology!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/emredoger/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://x.com/ipatavatsizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
+</p>
+
+---
+
+Thanks for stopping by! 😊
+
+<!-- !!! BURAYI YÜKLEDİĞİN İKİNCİ GIF'İN PUBLIC URL'Sİ İLE DEĞİŞTİR !!! -->
+<p align="center"><img align="center" width="400" src="https://github.com/user-attachments/assets/9d3f7172-8a90-4764-aa63-899b359c2065" /></p>
