@@ -12,12 +12,12 @@
 </td>
 <td width="70%" style="border: none; vertical-align: top;">
 <h3>👋 Welcome to my workspace!</h3>
-<p>I'm a passionate developer turning ☕ into code for the last 4-5 years.<br/>I love the craft of programming—whether it's building complex <b>Front-end UIs</b> or creating immersive <b>Mods</b>.</p>
+<p>I'm a passionate developer turning ☕ into code for the last 4-5 years.<br/>I love the craft of programming—whether it's building complex <b>Phone UIs</b> or creating immersive <b>Mods</b>.</p>
 <p>📱 <b>Current Focus:</b><br/>Building a next-gen <b>iOS 26 Clone</b> (dw-phone) for FiveM inside a monorepo structure.</p>
 <p>🛠️ <b>What I do:</b></p>
 <ul>
-<li>FiveM Modding & Scripting (TS/React)</li>
-<li>Mobile Development (Flutter/React Native)</li>
+<li>FiveM Modding & Scripting (Lua/React)</li>
+<li>Mobile Development (Flutter/Kotlin)</li>
 <li>UI/UX Engineering</li>
 </ul>
 <p>📍 <b>Based in:</b> Kayseri, Turkey</p>
@@ -27,8 +27,11 @@
 <br/>
 <h3>💻 Technologies & Tools</h3>
 <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,nodejs,html,css,python,lua,cs,unity,kotlin,flutter,git,github&perline=16&theme=dark" alt="Tech Stack" />
-<br/><br/>
+<br/>
+<h3>🎩 The Maestro</h3>
 <img src="https://github.com/user-attachments/assets/9d3f7172-8a90-4764-aa63-899b359c2065" width="400" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.5);" alt="Footer GIF" />
-<br/><br/>
+<br/>
+<p align="center"><i>"Je tua del jan il mio pado kilever."</i> 🤌</p>
+<br/>
 <p align="center"><i>Thanks for stopping by! ✨</i></p>
 </div>
