@@ -1,53 +1,34 @@
 <div align="center">
-
-# Hi there, I'm Emre! 👋
-
-### Just a coding enthusiast 🚀
-
-<img src="https://github.com/user-attachments/assets/fabf3a2c-a91d-40a9-befb-6d16df9da2fc" width="200" height="200" style="border-radius: 50%;" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Hi%20there,%20I'm%20Emre!%20👋&fontSize=70&fontAlignY=35&desc=FiveM%20Modder%20%7C%20Script%20Developer%20🚀&descAlignY=60&descAlign=50" alt="Header" />
 <br/>
+<table border="0" style="border: none; margin: 0; padding: 0;">
+<tr>
+<td width="30%" align="center" style="border: none; vertical-align: top;">
+<img src="https://github.com/user-attachments/assets/fabf3a2c-a91d-40a9-befb-6d16df9da2fc" width="160" style="border-radius: 50%; border: 4px solid #8A2BE2;" alt="Avatar" />
+<br/><br/>
+<a href="https://discord.com/users/294137739929059328" target="_blank"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="40" alt="Discord" /></a>
+<a href="https://x.com/ipatavatsizz" target="_blank"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="40" alt="X" /></a>
+<a href="mailto:emredoger442003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Gmail" /></a>
+</td>
+<td width="70%" style="border: none; vertical-align: top;">
+<h3>👋 Welcome to my workspace!</h3>
+<p>I'm a passionate developer turning ☕ into code for the last 4-5 years.<br/>I love the craft of programming—whether it's building complex <b>Front-end UIs</b> or creating immersive <b>Mods</b>.</p>
+<p>📱 <b>Current Focus:</b><br/>Building a next-gen <b>iOS 26 Clone</b> (dw-phone) for FiveM inside a monorepo structure.</p>
+<p>🛠️ <b>What I do:</b></p>
+<ul>
+<li>FiveM Modding & Scripting (TS/React)</li>
+<li>Mobile Development (Flutter/React Native)</li>
+<li>UI/UX Engineering</li>
+</ul>
+<p>📍 <b>Based in:</b> Kayseri, Turkey</p>
+</td>
+</tr>
+</table>
 <br/>
-
-I write code and build things. 🛠️
-
-For the last 4-5 years, I've been turning coffee into code, experimenting with different technologies, and bringing ideas to life. I simply love the craft of programming.
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" style="margin: 5px;" alt="TypeScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin: 5px;" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" style="margin: 5px;" alt="Kotlin"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin: 5px;" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" style="margin: 5px;" alt="C#"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" style="margin: 5px;" alt="Lua"/>
-
-<br/>
-
-<img src="https://developer.android.com/images/logos/android.svg" width="40" style="margin: 5px;" alt="Android"/>
-<img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" width="40" style="margin: 5px;" alt="Jetpack Compose"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" style="margin: 5px;" alt="Flutter"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" style="margin: 5px;" alt="Unity"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" style="margin: 5px;" alt="Git"/>
-
-<br/>
-<br/>
-
-<a href="https://www.linkedin.com/in/emredoger/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/ipatavatsizz" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-
-<br/>
-<br/>
-
-Thanks for stopping by! 😊
-
-<br/>
-<br/>
-
-<img width="400" src="https://github.com/user-attachments/assets/9d3f7172-8a90-4764-aa63-899b359c2065" />
-
+<h3>💻 Technologies & Tools</h3>
+<img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,nodejs,html,css,python,lua,cs,unity,kotlin,flutter,git,github&perline=16&theme=dark" alt="Tech Stack" />
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/9d3f7172-8a90-4764-aa63-899b359c2065" width="400" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.5);" alt="Footer GIF" />
+<br/><br/>
+<p align="center"><i>Thanks for stopping by! ✨</i></p>
 </div>
