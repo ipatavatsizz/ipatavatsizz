@@ -24,34 +24,22 @@
 <li><b>Mobile Dev:</b> Flutter & Kotlin</li>
 </ul>
 <p>📍 <b>Based in:</b> Kayseri, Turkey</p>
+<p>🪅 Check out my store:
+  🌐 <a href="https://dwscripts.dev"><b>dwscripts.dev</b></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  🛒 <a href="https://store.dwscripts.dev"><b>store.dwscripts.dev</b></a>
+  🎉
+</p>
+<br/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<table border="0" width="100%">
-<tr>
-<td align="center">
-<h3>🚀 dwscripts</h3>
-
-<a href="https://dwscripts.dev">
-  <img src="https://github.com/user-attachments/assets/5678dbc2-8680-47a7-9ef1-c2454205d1c2" alt="dwscripts Banner" width="100%" style="border-radius: 10px;" />
-</a>
-
-<br/>
-
-<p align="center" style="font-size: 16px;">
-  🌐 <a href="https://dwscripts.dev"><b>dwscripts.dev</b></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  🛒 <a href="https://store.dwscripts.dev"><b>store.dwscripts.dev</b></a>
-</p>
-
-<br/>
-
 <h3>💻 Technologies & Tools</h3>
 <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,nodejs,html,css,python,lua,cs,unity,kotlin,flutter,git,github&perline=16&theme=dark" alt="Tech Stack" />
-<br/>
+<br/><br/>
 
 <h3>🎩 The Maestro</h3>
 <img src="https://github.com/user-attachments/assets/9d3f7172-8a90-4764-aa63-899b359c2065" width="400" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.5);" alt="Footer GIF" />
