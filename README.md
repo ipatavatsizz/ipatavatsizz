@@ -8,9 +8,9 @@
 <td width="30%" align="center" style="border: none; vertical-align: top;">
 <img src="https://github.com/user-attachments/assets/fabf3a2c-a91d-40a9-befb-6d16df9da2fc" width="160" style="border-radius: 50%; border: 4px solid #8A2BE2;" alt="Avatar" />
 <br/><br/>
-<a href="https://discord.com/users/294137739929059328" target="_blank"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="40" alt="Discord" /></a>
-<a href="https://x.com/ipatavatsizz" target="_blank"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="40" alt="X" /></a>
-<a href="mailto:emredoger442003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Gmail" /></a>
+<a href="https://discord.com/users/294137739929059328" target="_blank"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="48" alt="Discord" /></a>
+<a href="https://x.com/ipatavatsizz" target="_blank"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="48" alt="X" /></a>
+<a href="mailto:emredoger442003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="Gmail" /></a>
 </td>
 <td width="70%" style="border: none; vertical-align: top;">
 <h3>👋 Welcome to my workspace!</h3>
@@ -19,17 +19,17 @@
 
 <p>🛠️ <b>What I do:</b></p>
 <ul>
-<li><b>FiveM Development:</b> Advanced NUI (React/TS) & Lua Scripting</li>
-<li><b>Full Stack Web:</b> Node.js, React, Modern UI/UX</li>
-<li><b>Mobile Dev:</b> Flutter & Kotlin</li>
+<li><b>FiveM Development:</b> Advanced Scripting (JS/TS)</li>
+<li><b>Outstanding & User Friendly User Interfaces/NUI:</b> Vue/React/TailwindCSS</li>
+<li><b>Mobile Development:</b> Expo/RN/Flutter/Native Kotlin</li>
 </ul>
 <p>📍 <b>Based in:</b> Kayseri, Turkey</p>
-<p>🪅 Check out my store:
-  🌐 <a href="https://dwscripts.dev"><b>dwscripts.dev</b></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  🛒 <a href="https://store.dwscripts.dev"><b>store.dwscripts.dev</b></a>
-  🎉
-</p>
+<p>🪅 Check out my links:</p>
+<ul>
+<li>🌐 <a href="https://dwscripts.dev"><b>dwscripts Official</b></a>
+<li> 🛒 <a href="https://store.dwscripts.dev"><b>Tebex Store</b></a>
+<li> ❓ <a href="https://discord.gg/bF2mFVCFkm"><b>Official Discord</b></a>
+</ul>
 <br/>
 </td>
 </tr>
@@ -38,7 +38,7 @@
 <br/>
 
 <h3>💻 Technologies & Tools</h3>
-<img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,nodejs,html,css,python,lua,cs,unity,kotlin,flutter,git,github&perline=16&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,vue,react,vite,tailwind,nodejs,bun,html,css,python,lua,cs,kotlin,dart,flutter&perline=16&theme=dark" alt="Tech Stack" />
 <br/><br/>
 
 <h3>🎩 The Maestro</h3>
