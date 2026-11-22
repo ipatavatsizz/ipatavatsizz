@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300" role="img" aria-labelledby="title description">
+  <title id="title">Emre — UI/UX &amp; Interface Designer</title>
+  <desc id="description">A lavender and charcoal banner with a layered interface illustration.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#c4b5fd" stroke-opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="300" rx="24" fill="#151223"/>
+  <rect x="594" y="1" width="365" height="298" rx="23" fill="url(#grid)"/>
+  <rect x="1" y="1" width="958" height="298" rx="23" fill="none" stroke="#a99ac8" stroke-opacity=".38"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="58" y="83" fill="#c4b5fd" font-size="18" letter-spacing="2">@ipatavatsizz</text>
+    <text x="54" y="166" fill="#f9f6ff" font-size="88" font-weight="700" letter-spacing="-4">Emre</text>
+    <text x="58" y="219" fill="#ded4f4" font-size="29">UI/UX &amp; Interface Designer</text>
+  </g>
+  <g stroke-width="2">
+    <rect x="664" y="54" width="210" height="150" rx="12" fill="#211a38" stroke="#75658f"/>
+    <rect x="686" y="76" width="210" height="150" rx="12" fill="#30244b" stroke="#9d86c0"/>
+    <rect x="708" y="98" width="210" height="150" rx="12" fill="#ede5ff" stroke="#f8f4ff"/>
+    <path d="M708 128h210" stroke="#b8a4d8"/>
+    <circle cx="726" cy="113" r="3" fill="#523482"/>
+    <circle cx="738" cy="113" r="3" fill="#8560bf"/>
+    <circle cx="750" cy="113" r="3" fill="#aa87dd"/>
+    <rect x="724" y="143" width="64" height="88" rx="7" fill="#bda8ec"/>
+    <rect x="802" y="150" width="78" height="8" rx="4" fill="#523482"/>
+    <rect x="802" y="169" width="98" height="5" rx="2.5" fill="#a48ac9"/>
+    <rect x="802" y="182" width="71" height="5" rx="2.5" fill="#a48ac9"/>
+    <rect x="802" y="205" width="51" height="20" rx="5" fill="#654499"/>
+  </g>
+</svg>
