@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://moonshred.net/">Moonshred</a> ·
   <a href="https://discord.com/users/294137739929059328">Discord</a> ·
   <a href="https://x.com/ipatavatsizz">X</a> ·
   <a href="mailto:emredoger442003@gmail.com">Email</a>
@@ -12,16 +13,25 @@
 
 <img align="right" width="112" src="https://github.com/user-attachments/assets/fabf3a2c-a91d-40a9-befb-6d16df9da2fc" alt="Emre's avatar">
 
-I’m Emre, a UI/UX and interface designer with a background in coding. I care about how typography, spacing, and motion shape the way an interface feels and works.
+I’m **Emre Döğer**, a UI/UX and interface designer with a background in coding. I work across web, desktop, and games, from designing reusable interface components to refining how they feel in a working build. I pay particular attention to typography, spacing, motion, and interaction feedback.
 
 - **UI/UX design** — User-centered interfaces with a distinct visual identity.
 - **Web interfaces** — Translating designs into web experiences with Vue, React, and Tailwind CSS.
 - **Design systems** — Reusable components and style guides that keep products consistent as they grow.
 
+## Selected work
+
+- **[Lobby Pop](https://moonshred.net/projects/lobby-pop/)** · A hotel management game I’m developing in Godot. I work on the in-game interface, guest interactions, and the 3D spaces players move through.
+- **[Moonshred](https://moonshred.net/)** · The bilingual website I built for my indie game work, with a dedicated page for Lobby Pop.
+- **[ZombieBuddy Installer](https://github.com/ipatavatsizz/zbinstaller)** · A cross-platform desktop installer for the ZombieBuddy mod for Project Zomboid.
+- **[YTubic](https://github.com/NUber-dev/YTubic/pull/133)** · An open-source contribution to a YouTube Music desktop client, fixing Repeat One playback on WebKit.
+
 ## Tools
 
 - **Design** · Figma
 - **Frontend** · Vue, React, Vite, Tailwind CSS, TypeScript, JavaScript, HTML, CSS
+
+- **Game development & 3D** · Godot, GDScript, Blender
 
 ## The Maestro
 
